@@ -1,0 +1,14 @@
+body {
+    font-family: Helvetica neue, roboto;
+}
+
+nav {
+    display: inline;
+    font-size: 25px;
+
+    
+}
+
+.content {
+    color: blue;
+}
